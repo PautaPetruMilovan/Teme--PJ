@@ -1,0 +1,3 @@
+imprimanta,Zebra,101,1500.0,Depozit,achizitionat,20,600,100
+copiator,Canon,102,2500.0,Magazin,expus,500,A3
+sistemcalcul,HP,103,4500.0,Depozit,vandut,LED,3.5,1000,Windows
