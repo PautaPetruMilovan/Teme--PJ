@@ -1,0 +1,36 @@
+[
+  {
+    "nume": "Dulap",
+    "placi": [
+      {
+        "descriere": "Usa",
+        "lungime": 2000,
+        "latime": 500,
+        "orientare": "LUNGIME",
+        "canturi": [true, false, true, false],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "Capac",
+        "lungime": 1000,
+        "latime": 500,
+        "orientare": "LATIME",
+        "canturi": [true, true, false, false],
+        "nr_bucati": 1
+      }
+    ]
+  },
+  {
+    "nume": "Birou",
+    "placi": [
+      {
+        "descriere": "Blat",
+        "lungime": 1200,
+        "latime": 600,
+        "orientare": "ORICARE",
+        "canturi": [true, true, true, true],
+        "nr_bucati": 1
+      }
+    ]
+  }
+]

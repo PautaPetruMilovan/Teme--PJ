@@ -1,0 +1,32 @@
+[
+  {
+    "nume": "Ion Popescu",
+    "postul": "sef",
+    "data_angajarii": "2021-04-15",
+    "salariul": 3500.0
+  },
+  {
+    "nume": "Maria Ionescu",
+    "postul": "asistent",
+    "data_angajarii": "2022-07-20",
+    "salariul": 2500.0
+  },
+  {
+    "nume": "Vasile Gheorghe",
+    "postul": "director",
+    "data_angajarii": "2023-04-10",
+    "salariul": 4500.0
+  },
+  {
+    "nume": "Ana Pop",
+    "postul": "analist",
+    "data_angajarii": "2020-03-01",
+    "salariul": 2800.0
+  },
+  {
+    "nume": "George Enescu",
+    "postul": "sef",
+    "data_angajarii": "2019-08-12",
+    "salariul": 3800.0
+  }
+]
