@@ -1,5 +1,5 @@
 ### IntelliJ IDEA ###
-out/
+../out/
 !**/src/Lab2Ex2Main/**/out/
 !**/src/test/**/out/
 

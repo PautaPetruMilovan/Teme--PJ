@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Laboratorul1.iml" filepath="$PROJECT_DIR$/Laboratorul1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laboratorul1/Laboratorul1.iml" filepath="$PROJECT_DIR$/Laboratorul1/Laboratorul1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laboratorul1*.iml" filepath="$PROJECT_DIR$/Laboratorul1*.iml" />
       <module fileurl="file://$PROJECT_DIR$/Laboratorul2/Laboratorul2.iml" filepath="$PROJECT_DIR$/Laboratorul2/Laboratorul2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Laboratorul3/Laboratorul3.iml" filepath="$PROJECT_DIR$/Laboratorul3/Laboratorul3.iml" />
     </modules>
