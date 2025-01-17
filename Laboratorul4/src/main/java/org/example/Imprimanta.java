@@ -1,12 +1,12 @@
 package org.example;
 
-public class Lab4Ex1Imprimanta extends Lab4Ex1Echipament {
+public class Imprimanta extends Echipament {
     private int ppm;
     private int dpi;
     private int p_car;
 
-    public Lab4Ex1Imprimanta(String denumire, int nr_inv, double pret, String zona_mag,
-                             StareEchipament stare, int ppm, int dpi, int p_car) {
+    public Imprimanta(String denumire, int nr_inv, double pret, String zona_mag,
+                      StareEchipament stare, int ppm, int dpi, int p_car) {
         super(denumire, nr_inv, pret, zona_mag, stare);
         this.ppm = ppm;
         this.dpi = dpi;

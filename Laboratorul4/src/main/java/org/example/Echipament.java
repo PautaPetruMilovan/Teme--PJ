@@ -2,7 +2,7 @@ package org.example;
 
 import java.io.Serializable;
 
-public abstract class Lab4Ex1Echipament implements Serializable {
+public abstract class Echipament implements Serializable {
     private String denumire;
     private int nr_inv;
     private double pret;
@@ -14,7 +14,7 @@ public abstract class Lab4Ex1Echipament implements Serializable {
     }
 
     // Constructor
-    public Lab4Ex1Echipament(String denumire, int nr_inv, double pret, String zona_mag, StareEchipament stare) {
+    public Echipament(String denumire, int nr_inv, double pret, String zona_mag, StareEchipament stare) {
         this.denumire = denumire;
         this.nr_inv = nr_inv;
         this.pret = pret;
