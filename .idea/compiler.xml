@@ -10,6 +10,7 @@
         <module name="Laboratorul5" />
         <module name="Laboratorul6" />
         <module name="Laboratorul7" />
+        <module name="Laboratorul8" />
       </profile>
     </annotationProcessing>
   </component>
